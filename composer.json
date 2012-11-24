@@ -3,7 +3,7 @@
     "description": "This package contains the Bootstrap HTML/CSS/JS library, along a Mouf installer file to add Bootstrap easily in your Mouf project.",
     "keywords": ["javascript", "mouf", "bootstrap"],
     "homepage": "http://twitter.github.com/bootstrap/",
-    "type": "library",
+    "type": "mouf-library",
     "license": "Apache License V2.0",
     "authors": [
         {
