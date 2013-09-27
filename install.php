@@ -13,10 +13,10 @@ $moufManager = MoufManager::getMoufManager();
 
 WebLibraryInstaller::installLibrary("javascript.bootstrap",
 	array(
-		'vendor/mouf/html.utils.bootstrap/js/bootstrap.min.js'
+		'vendor/twitter/bootstrap/dist/js/bootstrap.min.js'
 	),
 	array(
-		'vendor/mouf/html.utils.bootstrap/css/bootstrap.min.css'
+		'vendor/twitter/bootstrap/dist/css/bootstrap.min.css'
 	)
 );
 
