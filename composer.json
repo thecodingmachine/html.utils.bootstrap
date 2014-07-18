@@ -20,7 +20,7 @@
 	"require" : {
 		"php" : ">=5.3.0",
 		"mouf/javascript.jquery.jquery" : "~1.7",
-		"twitter/bootstrap" : "3.1.*@stable"
+		"twitter/bootstrap" : "3.2.*@stable"
 	},
 	"extra" : {
 		"mouf" : {
