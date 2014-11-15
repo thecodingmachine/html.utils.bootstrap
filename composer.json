@@ -1,6 +1,6 @@
 {
 	"name" : "mouf/html.utils.bootstrap",
-	"description" : "This package contains the Bootstrap HTML/CSS/JS library, along a Mouf installer file to add Bootstrap easily in your Mouf project.",
+	"description" : "This package contains an installer for the Bootstrap HTML/CSS/JS library in the Mouf framework to add Bootstrap easily in your Mouf project.",
 	"keywords" : [
 		"javascript",
 		"mouf",
@@ -20,7 +20,7 @@
 	"require" : {
 		"php" : ">=5.3.0",
 		"mouf/javascript.jquery.jquery" : "~1.7",
-		"twitter/bootstrap" : "3.2.*@stable"
+		"twitter/bootstrap" : "3.3.*@stable"
 	},
 	"extra" : {
 		"mouf" : {
