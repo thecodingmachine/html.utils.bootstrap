@@ -10,16 +10,14 @@
 	"type" : "mouf-library",
 	"license" : "Apache License V2.0",
 	"authors" : [{
-			"name" : "Mark Otto",
-			"twitter" : "@mdo"
+			"name" : "Mark Otto"
 		}, {
-			"name" : "Billy Gates",
-			"twitter" : "@fat"
+			"name" : "Billy Gates"
 		}
 	],
 	"require" : {
-		"php" : ">=5.3.0",
-		"mouf/javascript.jquery.jquery" : "~1.7",
+		"php" : "^8.0",
+		"mouf/javascript.jquery.jquery" : "^2",
 		"twitter/bootstrap" : "3.3.*@stable"
 	},
 	"extra" : {
