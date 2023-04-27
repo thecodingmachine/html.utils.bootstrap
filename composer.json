@@ -10,9 +10,11 @@
 	"type" : "mouf-library",
 	"license" : "Apache License V2.0",
 	"authors" : [{
-			"name" : "Mark Otto"
+			"name" : "Mark Otto",
+			"homepage" : "http://twitter.com/mdo"
 		}, {
-			"name" : "Billy Gates"
+			"name" : "Billy Gates",
+			"homepage" : "http://twitter.com/fat"
 		}
 	],
 	"require" : {
